@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+endpointApiVersion=34.0
+endpointEnvironment=Sandbox
+endpointServer=test.salesforce.com
+httpsProtocol=true
+ideVersion=34.0
+keependpoint=false
+metadataFormatVersion=34.0
+namespacePrefix=
+packageName=unpackaged
+preferToolingDeployment=true
+projectIdentifier=IDE-7811446970278461091
+readTimeout=400
+username=vaishali.mankar@theglobalfund.org.gmsprint6
